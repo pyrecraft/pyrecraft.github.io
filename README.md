@@ -8,7 +8,9 @@ The game is called **Mined Mind** and you can play it [here](https://pyrecraft.i
 
 I am a relatively new game developer and love sharing my learnings about the game development process with others as I go. I've written small articles here and there such as [Using Gifs to Increase Conversion Rates](https://pyrecraft.itch.io/mined-mind/devlog/93492/using-gifs-to-increase-conversion-rates) and [My GMTK Game Jam Results and Postmortem](https://pyrecraft.itch.io/mined-mind/devlog/94550/my-gmtk-game-jam-results-and-postmortem).
 
-If these kinds of learnings interest you or you are interested in tracking my game development progress, feel free to sign up for occasional game dev updates! 
+Every month or so I am going to send out what I worked on, what I learned, and how I stayed motivated.
+
+Join my mailing list.
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
