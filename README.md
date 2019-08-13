@@ -2,11 +2,11 @@
 
 Hi my name is Jon and I'm making games!
 
-I've created 5 games but the one I'm most proud of scored **top 6% in originality **in the biggest game jam in itch.io history - of course I'm talking about the Game Maker's Toolkit Jam 2019.
+I've created 5 games but the one I'm most proud of scored **top 6% in originality** in the biggest game jam in [itch.io](itch.io) history - of course I'm talking about the [Game Maker's Toolkit Jam 2019](https://itch.io/jam/gmtk-2019).
 
-The game is called Mined Mind and you can play it [here](https://pyrecraft.itch.io/mined-mind).
+The game is called **Mined Mind** and you can play it [here](https://pyrecraft.itch.io/mined-mind).
 
-I am a relatively new game developer and love sharing my learnings about the game development process with others as I go. I've written small articles here and there such as [Using Gifs to Increase Conversion Rates](https://pyrecraft.itch.io/mined-mind/devlog/93492/using-gifs-to-increase-conversion-rates) or [My GMTK Game Jam Results and Postmortem](https://pyrecraft.itch.io/mined-mind/devlog/94550/my-gmtk-game-jam-results-and-postmortem).
+I am a relatively new game developer and love sharing my learnings about the game development process with others as I go. I've written small articles here and there such as [Using Gifs to Increase Conversion Rates](https://pyrecraft.itch.io/mined-mind/devlog/93492/using-gifs-to-increase-conversion-rates) and [My GMTK Game Jam Results and Postmortem](https://pyrecraft.itch.io/mined-mind/devlog/94550/my-gmtk-game-jam-results-and-postmortem).
 
 If these kinds of learnings interest you or you are interested in tracking my game development progress, feel free to sign up to my newsletter below! 
 
