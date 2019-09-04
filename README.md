@@ -1,12 +1,10 @@
 ## Hello :~)
 
-Hi my name is Jon and I'm making games!
+Hi my name is Jon and I occasionally make games.
 
-I've created 5 games but the one I'm most proud of scored **top 6% in originality** in the biggest game jam in [itch.io](itch.io) history - of course I'm talking about the [Game Maker's Toolkit Jam 2019](https://itch.io/jam/gmtk-2019).
+I enjoy sharing my learnings about the game development process with others as I go.
 
-The game is called **Mined Mind** and you can play it [here](https://pyrecraft.itch.io/mined-mind).
-
-I am a relatively new game developer and love sharing my learnings about the game development process with others as I go. I've written small articles here and there such as [Using Gifs to Increase Conversion Rates](https://pyrecraft.itch.io/mined-mind/devlog/93492/using-gifs-to-increase-conversion-rates) and [My GMTK Game Jam Results and Postmortem](https://pyrecraft.itch.io/mined-mind/devlog/94550/my-gmtk-game-jam-results-and-postmortem).
+I've written small articles here and there such as [Using Gifs to Increase Conversion Rates](https://pyrecraft.itch.io/mined-mind/devlog/93492/using-gifs-to-increase-conversion-rates) and [My GMTK Game Jam Results and Postmortem](https://pyrecraft.itch.io/mined-mind/devlog/94550/my-gmtk-game-jam-results-and-postmortem).
 
 Every month or so I am going to send out what I worked on, what I learned, and how I stayed motivated.
 
