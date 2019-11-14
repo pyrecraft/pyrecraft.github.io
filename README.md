@@ -1,4 +1,4 @@
-## Hello :~)
+## Hello!
 
 Hi my name is Jon and I occasionally make games.
 
