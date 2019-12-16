@@ -2,9 +2,9 @@
 
 ![pyrecraft-header](https://pyrecraft.com/images/pyrecraft.png)
 
-I'm a software engineer by day and a games enthusiast by night living in San Francisco, CA.
+Hi I'm Jon! I'm a software engineer by day and a games enthusiast by night living in San Francisco, CA.
 
-I've been [playing video games](https://liquipedia.net/starcraft2/Pyre) my entire life and one day I decided it would be cool to make them in my spare time.
+I've been [playing video games](https://liquipedia.net/starcraft2/Pyre) my entire life and one day I decided it might be fun to make them in my spare time.
 
 ![hops-and-harmony](https://img.itch.zone/aW1nLzI3NDI5NzcuZ2lm/original/2B6GRJ.gif)
 
@@ -14,10 +14,22 @@ I got my first ever fan-created [youtube Let's Play](https://www.youtube.com/wat
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Great writing and some good chuckles. Nice work!</p>&mdash; Lucas Pope (@dukope) <a href="https://twitter.com/dukope/status/1166685572003352576?ref_src=twsrc%5Etfw">August 28, 2019</a></blockquote>
 
-I still have a toooon of learning to do and a lot more games to create but I'm looking forward to the process because I'm having so much fun. You can find my games [here](https://pyrecraft.itch.io/) and my music [here](https://soundcloud.com/pyrecraft). I also have a [twitter](https://twitter.com/pyrecraft) which I post updates to occasionally ^^
+I still have a toooon of learning to do and a lot more games to create but I'm looking forward to the process because I'm having so much fun. You can find my games at [https://pyrecraft.itch.io/](https://pyrecraft.itch.io/) and my music at [https://soundcloud.com/pyrecraft](https://soundcloud.com/pyrecraft). I also have a [twitter](https://twitter.com/pyrecraft) which I post updates to occasionally ^^
 
 If you have any questions or want to chat, feel free to email me at **pyrecraftgames** at **gmail.com**
 
 Cheers!
 
+[![alt text][1.1]][1]
+[![alt text][6.1]][6]
+[![alt text][2.1]][2]
+
 ![sheepa-moonlight](https://img.itch.zone/aW1nLzI3NDMwMzYuZ2lm/original/AnRLx%2B.gif)
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: https://w.soundcloud.com/icon/assets/images/black_white_24-94fc761.png (soundcloud icon)
+[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+[1]: https://www.twitter.com/pyrecraft
+[2]: https://www.soundcloud.com/pyrecraft
+[6]: http://www.github.com/pyrecraft
