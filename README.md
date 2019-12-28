@@ -10,7 +10,7 @@ I've been [playing video games](https://liquipedia.net/starcraft2/Pyre) my entir
 
 So far I've only made small [game jam](https://en.wikipedia.org/wiki/Game_jam) games but I've learned a lot from those games such as [frame rate independence](https://pyrecraft.itch.io/retrorunner/devlog/79983/retro-runner-is-now-frame-rate-independent), [using gifs to increase click-through rates](https://pyrecraft.itch.io/mined-mind/devlog/93492/using-gifs-to-increase-conversion-rates), and [animating characters via primitive shapes](https://pyrecraft.itch.io/hops-and-harmony/devlog/112833/cute-animation-with-primitive-shapes) just to name a few.
 
-I got my first ever fan-created [youtube Let's Play](https://www.youtube.com/watch?v=i1XVzD1UGBs) of one of my games, a few donations, and most importantly.. a [shoutout from Lucas Pope!!](https://twitter.com/dukope/status/1166685572003352576)
+I got my first ever fan-created [Let's Play](https://www.youtube.com/watch?v=i1XVzD1UGBs), a few donations, a licensed game sale, and most importantly.. a [shoutout from Lucas Pope!!](https://twitter.com/dukope/status/1166685572003352576)
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Great writing and some good chuckles. Nice work!</p>&mdash; Lucas Pope (@dukope) <a href="https://twitter.com/dukope/status/1166685572003352576?ref_src=twsrc%5Etfw">August 28, 2019</a></blockquote>
 
